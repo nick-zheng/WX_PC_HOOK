@@ -26,7 +26,7 @@
 
 ​	原理、过程：
 
-![Pasted Graphic 1.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/66B0F742-B92D-4420-90D4-B999602B4DFE/Pasted%20Graphic%201.png)
+![Pasted Graphic 1.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/8/Pasted%20Graphic%201.png)
 
 
 
@@ -76,7 +76,7 @@ NG……IHDR       //这就是PNG图片的前缀
 
 在右下点击value，在内存中查看基址
 
-![Pasted Graphic.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/66B0F742-B92D-4420-90D4-B999602B4DFE/Pasted%20Graphic.png)
+![Pasted Graphic.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/8/Pasted%20Graphic.png)
 
 获取下一行代码的地址
 
@@ -108,7 +108,7 @@ ret
 
 **Inlink HOOK的原理：**
 
-![Pasted Graphic 1.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/24E3C0F0-3946-4D1B-BD48-11AB1DB48966/Pasted%20Graphic%201.png)
+![Pasted Graphic 1.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/8/Pasted%20Graphic%201.png)
 
 
 

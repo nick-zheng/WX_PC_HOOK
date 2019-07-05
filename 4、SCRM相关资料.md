@@ -4,13 +4,13 @@
 
 **竞品分析：**
 
-![Pasted Graphic.tiff](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/2CE1AC01-2CB9-40B8-BA48-5B8608ED6AB0/Pasted%20Graphic.tiff)
+![Pasted Graphic.tiff](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/4/Pasted%20Graphic.tiff)
 
 
 
 **SCRM****介绍：**
 
-![SCRM-0601-compressed.pdf](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/2CE1AC01-2CB9-40B8-BA48-5B8608ED6AB0/SCRM-0601-compressed.pdf)
+![SCRM-0601-compressed.pdf](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/4/SCRM-0601-compressed.pdf)
 
 
 

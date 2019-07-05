@@ -16,7 +16,7 @@ Inline Hook 是使用最广泛的也是自由度在r3（系统3环里自由度�
 
 **HOOK流程：**
 
-![Pasted Graphic 33.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/DDFB55E2-B1EF-47A5-9A02-EB68C6D5B0A6/Pasted%20Graphic%2033.png)
+![Pasted Graphic 33.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/9/Pasted%20Graphic%2033.png)
 
 
 

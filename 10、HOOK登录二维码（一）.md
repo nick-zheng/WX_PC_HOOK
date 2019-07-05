@@ -20,19 +20,19 @@
 
 **1、一定要在这个页面附加CE:**
 
-![Pasted Graphic.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic.png)
+![Pasted Graphic.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic.png)
 
 
 
 **2、首次搜索：**
 
-![Pasted Graphic 1.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%201.png)
+![Pasted Graphic 1.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%201.png)
 
 
 
 首次搜索，搜索出548万个结果
 
-![Pasted Graphic 2.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%202.png)
+![Pasted Graphic 2.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%202.png)
 
 这个要一遍一遍地筛选，大概要五六遍。。。
 
@@ -42,15 +42,15 @@
 
 **3、切换账号（出现二维码页面）：**
 
-![Pasted Graphic 3.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%203.png)
+![Pasted Graphic 3.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%203.png)
 
-![Pasted Graphic 4.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%204.png)
+![Pasted Graphic 4.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%204.png)
 
-![Pasted Graphic 5.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%205.png)
+![Pasted Graphic 5.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%205.png)
 
 还有26万个搜索结果
 
-![Pasted Graphic 6.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%206.png)
+![Pasted Graphic 6.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%206.png)
 
 
 
@@ -58,11 +58,11 @@
 
 再次搜索改变的值
 
-![Pasted Graphic 8.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%208.png)
+![Pasted Graphic 8.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%208.png)
 
 还在9万多个结果
 
-![Pasted Graphic 9.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%209.png)
+![Pasted Graphic 9.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%209.png)
 
 
 
@@ -70,11 +70,11 @@
 
 返回登录，再搜索改变的值
 
-![Pasted Graphic 10.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2010.png)
+![Pasted Graphic 10.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2010.png)
 
 再手机扫码，再搜索改变的值
 
-![Pasted Graphic 8.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%208.png)
+![Pasted Graphic 8.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%208.png)
 
 就这样重复几遍
 
@@ -82,25 +82,25 @@
 
 **6、一直到搜索结果一直都是几千不会降下来了为止：**
 
-![Pasted Graphic 11.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2011.png)
+![Pasted Graphic 11.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2011.png)
 
 列表拉到下面绿色的那些项，这里面就有二维码的基址，需要分析这些找到二维码的基址
 
-![Pasted Graphic 12.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2012.png)
+![Pasted Graphic 12.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2012.png)
 
-![Pasted Graphic 13.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2013.png)
+![Pasted Graphic 13.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2013.png)
 
 
 
 **7、观测变化：**
 
-![Pasted Graphic 14.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2014.png)
+![Pasted Graphic 14.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2014.png)
 
 
 
 微信没动的话，把那些值经常变的给删除掉，剩下的那些不变的就很有可能是我们要找的基址
 
-![Pasted Graphic 15.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2015.png)
+![Pasted Graphic 15.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2015.png)
 
 **8、打开OD，查看剩下的这些地址的值：**
 
@@ -114,27 +114,27 @@ dd xxxxx
 
 只有出现这种情况的，才开始分析，其他的就放过（不要取消断点，点击微信切换账号要快点点击，不然很快就会进断点）
 
-![Pasted Graphic 16.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2016.png)
+![Pasted Graphic 16.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2016.png)
 
 
 
 然后看堆栈里，找WeChatWin.dll相关的函数，进行分析
 
-![Pasted Graphic 18.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2018.png)
+![Pasted Graphic 18.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2018.png)
 
 
 
-![Pasted Graphic 19.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2019.png)
+![Pasted Graphic 19.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2019.png)
 
 
 
-![Pasted Graphic 20.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2020.png)
+![Pasted Graphic 20.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2020.png)
 
 
 
 往下找外层的，连续找几个，找到的都下一个CPU断点，来测试
 
-![Pasted Graphic 21.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2021.png)
+![Pasted Graphic 21.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2021.png)
 
 
 
@@ -142,7 +142,7 @@ dd xxxxx
 
 只有点击了 又未画出二维码的情况下的断点，才是我们需要的
 
-![Pasted Graphic 22.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2022.png)
+![Pasted Graphic 22.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2022.png)
 
 查看这里装的是什么内容 dd [ecx]回车，看不出来是什么内容的话就用 dc [ecx]回车
 
@@ -172,7 +172,7 @@ ret
 
 在CPU窗口中任意位置右键，运行脚本，打开刚才保存的xxx.txt
 
-![Pasted Graphic 23.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2023.png)
+![Pasted Graphic 23.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2023.png)
 
 然后到微信的安装目录下找保存的图片QrCode.png
 
@@ -182,13 +182,13 @@ ret
 
 如果找到了，就在CPU窗口中那个call位置添加备注：
 
-![Pasted Graphic 24.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2024.png)
+![Pasted Graphic 24.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2024.png)
 
 为了确定一下，可以再跑一遍扫码》返回，进入断点，dm保存图片查看~
 
 
 
-![Pasted Graphic 25.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/78A362D5-3676-40B9-BEB2-053259993335/Pasted%20Graphic%2025.png)
+![Pasted Graphic 25.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/10/Pasted%20Graphic%2025.png)
 
 接下来就算一下偏移：
 

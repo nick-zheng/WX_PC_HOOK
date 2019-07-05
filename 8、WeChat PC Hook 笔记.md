@@ -92,7 +92,7 @@ NG……IHDR       //这就是PNG图片的前缀
 
 找到二维码图片地址，在CUP中运行脚本：
 
-dm xxxx,xx,”code.pn”   //dm 内存地址，大小，“保存图片名称”
+dm xxxx,xx,”code.png”   //dm 内存地址，大小，“保存图片名称”
 
 ret
 

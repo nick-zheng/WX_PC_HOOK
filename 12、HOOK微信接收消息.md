@@ -16,11 +16,11 @@
 
 
 
-![Pasted Graphic 14.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2014.png)
+![Pasted Graphic 14.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2014.png)
 
 再发送一个内容，再点Next Scan。。。
 
-![Pasted Graphic 15.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2015.png)
+![Pasted Graphic 15.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2015.png)
 
 修改Type大小，内容里有<msgsource>之类的才是我们要找的地址，这是比较完整的数据
 
@@ -32,23 +32,23 @@
 
 在OD中下**内存写入**断点，再用另一个微信号发一个消息，进入断点后先把内存断点删除，再进行分析：
 
-![Pasted Graphic 17.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2017.png)
+![Pasted Graphic 17.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2017.png)
 
 再往下找比较外层的，
 
-![Pasted Graphic 18.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2018.png)
+![Pasted Graphic 18.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2018.png)
 
 遇到这类型的，再继续往下找一下，
 
-![Pasted Graphic 19.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2019.png)
+![Pasted Graphic 19.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2019.png)
 
 遇到这类型的，就在附近总会有call的：
 
-![Pasted Graphic 20.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2020.png)
+![Pasted Graphic 20.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2020.png)
 
 回车，观察CPU窗口：
 
-![Pasted Graphic 23.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2023.png)
+![Pasted Graphic 23.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2023.png)
 
 
 
@@ -60,17 +60,17 @@
 
 **dd [[esp]]，查看内存中的内容**
 
-![Pasted Graphic 24.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2024.png)
+![Pasted Graphic 24.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2024.png)
 
-![Pasted Graphic 25.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2025.png)
+![Pasted Graphic 25.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2025.png)
 
 
 
-![Pasted Graphic 26.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2026.png)
+![Pasted Graphic 26.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2026.png)
 
-![Pasted Graphic 27.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2027.png)
+![Pasted Graphic 27.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2027.png)
 
-![Pasted Graphic 28.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2028.png)
+![Pasted Graphic 28.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2028.png)
 
 
 
@@ -98,7 +98,7 @@ wxid的地址是：          06C11F78
 
 
 
-![Pasted Graphic 29.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/6FF351BA-A963-4CC6-94E6-D3DC72B097F2/Pasted%20Graphic%2029.png)
+![Pasted Graphic 29.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/12/Pasted%20Graphic%2029.png)
 
 WeChatWin.dll基址：737E0000
 

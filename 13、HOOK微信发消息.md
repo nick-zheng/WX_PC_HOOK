@@ -46,37 +46,37 @@
 
 从wxid入手来找，CE中：
 
-![Pasted Graphic.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic.png)
+![Pasted Graphic.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic.png)
 
 找到几百个结果，个人的微信id都是wxid_开头的，我们切换成个人聊天窗口，再CE中搜索wxid_
 
-![Pasted Graphic 2.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%202.png)
+![Pasted Graphic 2.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%202.png)
 
 现在只有8个结果，再找切回filehelper
 
-![Pasted Graphic 1.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%201.png)
+![Pasted Graphic 1.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%201.png)
 
 将上面的结果都拿下来观察：
 
 切来切去，最后确定下一个基址，在OD中下内存访问断点来分析，往前找到push edp，前面有好多int3什么的就是参数定义，在push edp这里下个断，再在堆栈中定位真正call入口（在堆栈里找到返回WeChatVi.xxx的，回车，在CUP中查看往前找到push多个参数的）
 
-![Pasted Graphic 6.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%206.png)
+![Pasted Graphic 6.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%206.png)
 
 
 
 内容：
 
-![Pasted Graphic 7.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%207.png)
+![Pasted Graphic 7.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%207.png)
 
 wxid：
 
-![Pasted Graphic 8.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%208.png)
+![Pasted Graphic 8.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%208.png)
 
 第二行是内容的长度，
 
 第三行是内容的长度的两倍就可以了。
 
-![Pasted Graphic 10.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%2010.png)
+![Pasted Graphic 10.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%2010.png)
 
 
 
@@ -84,7 +84,7 @@ wxid：
 
 发送内容：
 
-![Pasted Graphic 11.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%2011.png)
+![Pasted Graphic 11.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%2011.png)
 
 微信id也是和发送内容一样的结构体；
 
@@ -250,7 +250,7 @@ dll基址：		         737E0000
 
 
 
-![Pasted Graphic 12.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5DE13EEE-ABB7-4E47-85FC-A9C818411120/Pasted%20Graphic%2012.png)
+![Pasted Graphic 12.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/13/Pasted%20Graphic%2012.png)
 
 继续执行，会发送了新构造的内容
 

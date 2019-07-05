@@ -26,9 +26,9 @@
 
 建议最好在几分钟内查找（微信会隔一段时间就更新二维码的）
 
-![Pasted Graphic 26.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/D4C3375B-6DF4-4A02-92CA-64BD9D383E18/Pasted%20Graphic%2026.png)
+![Pasted Graphic 26.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/11/Pasted%20Graphic%2026.png)
 
-![Pasted Graphic 27.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/D4C3375B-6DF4-4A02-92CA-64BD9D383E18/Pasted%20Graphic%2027.png)
+![Pasted Graphic 27.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/11/Pasted%20Graphic%2027.png)
 
 使用https://cli.im/tools 工具上传微信登录二维码图片，拿到内容，与CE里这个地址显示的文本内容是否一样，一样则是正确的了
 
@@ -42,21 +42,21 @@ dd 0802D718
 
 打一下内存写入断点（要快一点，可能微信二维码会刷新）
 
-![Pasted Graphic 29.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/D4C3375B-6DF4-4A02-92CA-64BD9D383E18/Pasted%20Graphic%2029.png)
+![Pasted Graphic 29.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/11/Pasted%20Graphic%2029.png)
 
 
 
 等待二维码刷新，进入断点
 
-![Pasted Graphic 30.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/D4C3375B-6DF4-4A02-92CA-64BD9D383E18/Pasted%20Graphic%2030.png)
+![Pasted Graphic 30.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/11/Pasted%20Graphic%2030.png)
 
-![Pasted Graphic 31.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/D4C3375B-6DF4-4A02-92CA-64BD9D383E18/Pasted%20Graphic%2031.png)
+![Pasted Graphic 31.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/11/Pasted%20Graphic%2031.png)
 
 
 
 **3、计算二维码文本内容偏移地址：**
 
-![Pasted Graphic 32.png](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/D4C3375B-6DF4-4A02-92CA-64BD9D383E18/Pasted%20Graphic%2032.png)
+![Pasted Graphic 32.png](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/11/Pasted%20Graphic%2032.png)
 
 二维码文本内容基址：5901658C (这是一个指针，指向一个地址，地址装的内容是二维码文本内容）
 

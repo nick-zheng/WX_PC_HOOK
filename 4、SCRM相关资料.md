@@ -4,11 +4,11 @@
 
 **竞品分析：**
 
-![Pasted Graphic.tiff](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/4/Pasted%20Graphic.tiff)
+![Pasted Graphic.tiff](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/4/Pasted%20Graphic.png)
 
 
 
-**SCRM****介绍：**
+**SCRM介绍：**
 
 ![SCRM-0601-compressed.pdf](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/4/SCRM-0601-compressed.pdf)
 

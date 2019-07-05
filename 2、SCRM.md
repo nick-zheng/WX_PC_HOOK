@@ -10,7 +10,7 @@
 
 ​		员工正常使用手机和微信
 
-![Pasted Graphic 3.tiff](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5EC12F7C-8347-4C39-88A6-0BE7C31F4C24/Pasted%20Graphic%203.tiff)
+![Pasted Graphic 3.tiff](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/2/Pasted%20Graphic%203.tiff)
 
 ​	2、管理端：
 
@@ -18,7 +18,7 @@
 
 ​	
 
-![Pasted Graphic 2.tiff](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5EC12F7C-8347-4C39-88A6-0BE7C31F4C24/Pasted%20Graphic%202.tiff)
+![Pasted Graphic 2.tiff](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/2/Pasted%20Graphic%202.tiff)
 
 ​	
 
@@ -56,7 +56,7 @@
 
 ​		员工用工号登录系统 聊微信客户
 
-![Pasted Graphic 1.tiff](/var/folders/_8/n5n2trzn1tqc8pw803z2wtzm0000gn/T/abnerworks.Typora/5EC12F7C-8347-4C39-88A6-0BE7C31F4C24/Pasted%20Graphic%201.tiff)
+![Pasted Graphic 1.tiff](https://github.com/nick-zheng/WX_PC_HOOK/blob/master/_images/2/Pasted%20Graphic%201.tiff)
 
 
 

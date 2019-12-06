@@ -16,7 +16,7 @@ dll基址：					6BC20000	00905A4D		 WeChatWin.dll
 
 微信名称基址：        WeChatWin.dll+126D91C     6CE8D91C	捣鼓一下IT		WeChatWin.dll + 0x0126D91C
 
-微信手机码：			6CE8D950	18922782615	WeChatWin.dll + 0x0126D950
+微信手机码：			6CE8D950	189xxxx2615	WeChatWin.dll + 0x0126D950
 
 微信地址-国家：	   6CE8DAF8	CN 				     WeChatWin.dll + 0x0126DAF8
 
